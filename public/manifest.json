@@ -1,0 +1,22 @@
+{
+    "name": "Match du Jeudi",
+    "short_name": "Foot Jeudi",
+    "description": "Participation + vote MVP du match",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#111111",
+    "theme_color": "#DC143C",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI0RDMTQzQyIgcng9IjIwIi8+PHRleHQgeT0iNjUiIGZvbnQtc2l6ZT0iNjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjUwIiBmaWxsPSJ3aGl0ZSI+77+9PC90ZXh0Pjwvc3ZnPg==",
+        "sizes": "192x192",
+        "type": "image/svg+xml"
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI0RDMTQzQyIgcng9IjIwIi8+PHRleHQgeT0iNjUiIGZvbnQtc2l6ZT0iNjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjUwIiBmaWxsPSJ3aGl0ZSI+77+9PC90ZXh0Pjwvc3ZnPg==",
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ]
+  }
